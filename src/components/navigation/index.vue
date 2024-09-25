@@ -2,7 +2,7 @@
  <nav>
   <div class="max-w-screen-xl flex flex-wrap items-center justify-evenly mx-auto p-4 pb-2xl">
     <div class="hidden w-full md:block md:w-auto">
-      <ul class="font-medium flex flex-row">
+      <ul class="wobble-hor-top font-medium flex flex-row">
         <li>
           <router-link 
             :to="{ name: 'portfolio.home.index' }" 

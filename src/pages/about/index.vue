@@ -1,7 +1,6 @@
 <template>
   <NavigationComponent/>
   <AboutIndex/>
-  <FooterIndex/>
 </template>
 
 <script>
