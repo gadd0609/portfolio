@@ -1,5 +1,3 @@
 <template>
   <routerView/>
 </template>
-
-
